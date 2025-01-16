@@ -11,7 +11,7 @@ All Rights Reserved. A license to use and copy this software and its documentati
 **Here is the citation in BibTeX format:**
 ```
 @article{your_paper_citation,
-  author    = {chenxuliu},
+  author    = {xxx},
   title     = {xxx},
   journal   = {IOTJ},
   year      = {2025},
