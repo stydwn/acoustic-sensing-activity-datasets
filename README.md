@@ -7,6 +7,8 @@ All Rights Reserved. A license to use and copy this software and its documentati
 2. no rights to sublicense or further distribute this software are granted;
 3. no rights to modify this software are granted; and
 4. no rights to assign this license are granted.
+
+**Here is the citation in BibTeX format:**
 ```
 @article{your_paper_citation,
   author    = {chenxuliu},
