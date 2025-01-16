@@ -1,4 +1,4 @@
-# acoustic-sensing-activity-datasets
+# Acoustic-Sensing-Activity-Datasets
 Acoustic sensing activity datasets containing CW and FMCW signals.
 # CREDITS, LICENSE, CITATION
 All Rights Reserved. A license to use and copy this software and its documentation solely for your internal research and evaluation purposes, without fee and without a signed licensing agreement, is hereby granted upon your download of the software, through which you agree to the following:
